@@ -1,6 +1,6 @@
 """
 A bot to change the flair of all posts in a subreddit
-Written by /u/SmBe19
+Written by the dank one, /u/SmBe19
 """
 
 import praw
